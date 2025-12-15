@@ -1,0 +1,1 @@
+ALTER Table usuarios add COLUMN senha VARCHAR(60);
